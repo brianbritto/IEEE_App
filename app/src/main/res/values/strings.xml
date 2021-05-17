@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IEEE App</string>
+    <string name="hello_utp">Hola UTP!</string>
+    <string name="escriba_aqui">Escriba aqui</string>
+    <string name="pulsar_aqui">Pulsar aqui</string>
+    <string name="click_aqui">click aqui!</string>
+</resources>
